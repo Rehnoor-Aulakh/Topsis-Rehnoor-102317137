@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 TOPSIS
+#  TOPSIS
 
 ### Technique for Order Preference by Similarity to Ideal Solution
 
